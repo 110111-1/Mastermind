@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1614094363 source:d:\etudes\ingenieur\bac+2_analyst.devel\analysteprog120 ects\ele002\xcodes\002\mastermind\mastermind_3\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1614074633 source:d:\etudes\ingenieur\bac+2_analyst.devel\analysteprog120 ects\ele002\xcodes\002\mastermind\mastermind_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+
+1614070507 d:\etudes\ingenieur\bac+2_analyst.devel\analysteprog120 ects\ele002\xcodes\002\mastermind\mastermind_3\jeu.h
+
+1614094675 source:d:\etudes\ingenieur\bac+2_analyst.devel\analysteprog120 ects\ele002\mesprogrammes\mastermind\mastermind_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+
+1614070507 d:\etudes\ingenieur\bac+2_analyst.devel\analysteprog120 ects\ele002\mesprogrammes\mastermind\mastermind_3\jeu.h
+
